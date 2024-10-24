@@ -20,7 +20,7 @@ function Footer() {
                                 className="flex flex-col items-center justify-between gap-6 border-b border-white py-6 md:block md:space-y-6 md:border-none md:py-0"
                             >
                                 <img src="https://picsum.photos/130" alt="random image" width="100" height="42" className="w-32 mb-3" />
-                                <a href="#" target="blank" aria-label="github" className="hover:text-[#d5b5f5]">
+                                <a href="https://github.com/Stuko0" target="blank" aria-label="github" className="hover:text-[#d5b5f5]">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
                                         width="20"
