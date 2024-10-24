@@ -31,7 +31,7 @@ function Header(){
                             <a href="#" title="" className="text-base font-medium text-black transition-all duration-200 hover:text-[#2dd4bf] focus:text-[#2dd4bf]"> Noticias </a>
                         </div>
 
-                        <a href="#" title="" className="items-center justify-center hidden px-4 py-3 ml-10 text-base font-semibold text-white transition-all duration-200 bg-[#23ab9a] border border-transparent rounded-md lg:inline-flex hover:bg-[#2dd4bf] focus:bg-[#2dd4bf]" role="button"> Get started now </a>
+                        <a href="#" title="" className="items-center justify-center hidden px-4 py-3 ml-10 text-base font-semibold text-white transition-all duration-200 bg-[#23ab9a] border border-transparent rounded-md lg:inline-flex hover:bg-[#2dd4bf] focus:bg-[#2dd4bf]" role="button"> Sign In </a>
                     </nav>
                     <nav className="pt-4 pb-6 bg-white border border-gray-200 rounded-md shadow-md lg:hidden">
                         <div className="flow-root">
@@ -45,7 +45,7 @@ function Header(){
                         </div>
 
                         <div className="px-6 mt-6">
-                            <a href="#" title="" className="inline-flex justify-center px-4 py-3 text-base font-semibold text-white transition-all duration-200 bg-[#23ab9a] border border-transparent rounded-md tems-center hover:bg-[#2dd4bf] focus:bg-[#2dd4bf]" role="button"> Get started now </a>
+                            <a href="#" title="" className="inline-flex justify-center px-4 py-3 text-base font-semibold text-white transition-all duration-200 bg-[#23ab9a] border border-transparent rounded-md tems-center hover:bg-[#2dd4bf] focus:bg-[#2dd4bf]" role="button"> Sign In </a>
                         </div>
                     </nav>
                 </div>
